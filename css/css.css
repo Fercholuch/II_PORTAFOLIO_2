@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+    background-color:#fff;
+}
+
+:root{
+    --color1:  #21A0B7;
+    --color2:  #90D1ED;
+    --color3:  #fff;
+    --color4:  #E78A6A;
+    --color5:  #000;
+}
+
+body{
+    font-size: 10px;
+}
+
+
+.calculadora{
+    background-color:  #fff;
+    border-radius: 0.5em;
+    width: 35em;
+    height: 51.5em;
+    font-family: fantasy;
+    margin: auto;
+    margin-top: 5em;
+    
+    -webkit-box-shadow: 5px 5px 15px 2px rgba(95, 81, 81,1);
+    -moz-box-shadow: 5px 5px 15px 2px rgba(95, 81, 81,1);
+    box-shadow: 5px 5px 15px 2px rgba(95, 81, 81,1);
+}
+
+.calculadora h1{
+    color: #21A0B7;
+    margin-left: 1.3em;
+    font-size: 2.5em;
+    padding-top: 2em;
+}
+
+.calculadora p{
+    margin-left: 2.8em;
+    margin-top: 1em;
+    font-size: 1.3em;
+    background-color: #fff;
+}
+
+
+#num1{ 
+    display: block;
+    width: 80%;
+    height: 2.8em;
+    margin: auto;
+    margin-top: 0.5em; 
+    border: 0.2em solid #BFE2E8;
+    text-align:justify-all;
+    font-size: 1.5em;
+    background-color: #BFE2E8;   
+}
+
+
+.calculadora h2{
+    margin-top: 1.8em;
+    margin-left: 2.6em;
+    font-size: 1.3em;
+    color: #83979B;
+}
+
+
+#num2{ 
+    display: block;
+    width: 80%;
+    height: 2.8em;
+    margin: auto;
+    margin-top: 0.2em; 
+    border: 0.1em solid #BFE2E8;
+    text-align: justify;
+    font-size: 1.5em;
+    background-color: #BFE2E8;
+
+}
+.calculadora h3{
+    margin-top: 1em;
+    margin-left: 2.6em;
+    font-size: 1.3em;
+    color:  #83979B;
+}
+
+
+#num3{ 
+    display: block;
+    width: 80%;
+    height: 6em;
+    margin: auto;
+    margin-top: 0.2em; 
+    border: 0.1em solid #BFE2E8;
+    text-align: justify;
+    font-size: 1.5em;
+    background-color: #BFE2E8;    
+
+}
+.calculadora h4{
+    margin-top: 2em;
+    margin-left: 2.6em;
+    font-size: 1.3em;
+    color:  #83979B;
+}
+
+.cj-btn{
+    width: 5em;
+    height: 1.5em;
+    margin-left: 1.3em;
+    margin-top: 0.4em;
+    font-family: monospace;
+    font-size: 2.5em;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+} 
+
+.cj-btn input{
+    width: 15em;
+    background-color: #21A0B7;
+    color: #fff;
+    cursor: pointer;
+    font-size: 0.5em;
+    text-align: center;
+    background-image: url(../img/blanca.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+    
+    
+}
+
+.cj-btn input:hover{
+    background-color: #E78A6A;
+}
+
