@@ -1,2 +1,6 @@
 # II_PORTAFOLIO_2
 https://fercholuch.github.io/II_PORTAFOLIO_2/
+
+Más que todo me guíe por el wireframe del ejemplo, ya que era eso lo que se necesitaba, uno de mis colores favoritos es el azul, y de ahí me base en mi paleta de colores, ya que
+trate de jugar con un poco de las tonalidades de ese color y los puse en el código. No coloqué más colores por que quería hacer algo simple, pero que se mirara bien.
+Me base tambíen en los codigos de "Formulario" para poder ver y hacer como crear algunas cajas, claro, modifiqué alguna cosas, me costó un poco en poner o hacer la estructura de esto, ya que no recordaba bien en como hacerlo, así que me puse a investigué en algunos trabajos anteriores y pude hacerlo, como las funcionalidades del imput, y en que se tenia que marcar ahí. Otra de los objetivos a usar, eran las unidades "em" la cual me costó un poco, ya que no estoy acostumbrado a trabajar con ello, y a veces con unos calculos no me daban el valor que necesitaba, y tenia que modificarlos para poder obtener lo que necesitaba. Los botones fueron no muy complicados de hacer, pero para que adentro se escribieran lo que se pedía, no lo recordaba tanto, e igual que ante, fue a buscar trabajos anteriores, y pude hayar mis respuestas.
